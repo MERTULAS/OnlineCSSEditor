@@ -1,0 +1,10 @@
+.block {
+    background: red;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.selected {
+    border: 2px solid white !important;
+}
