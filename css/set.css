@@ -3,6 +3,8 @@
     margin: 10px;
     text-align: center;
     font-size: 1.2em;
+    border: 2px solid red !important;
+    user-select: none;
 }
 
 .selected {
